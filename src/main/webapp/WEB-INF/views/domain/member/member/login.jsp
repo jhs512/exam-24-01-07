@@ -20,9 +20,6 @@
         <div>로그인</div>
         <div>
             <input type="submit" value="로그인">
-            <button type="subimt">로그인</button>
-            <button>로그인</button>
-            <button type="button">로그인(x)</button>
         </div>
     </div>
 </form>
